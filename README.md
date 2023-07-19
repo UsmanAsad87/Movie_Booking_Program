@@ -1,6 +1,13 @@
 # Movie Booking Program
 ## Scenario: Design and develop a booking system for an independent cinema.
 
+
+
+https://github.com/UsmanAsad87/Movie_Booking_Program/assets/92229738/30ece99f-d5a4-461c-982d-a131e51ecfe4
+
+
+
+
 ## Basic cinema information: 
 The cinema is open from 10:00 to 23:30. The earliest a film can be shown is 10:15. There is a 25-minute gap between film showings so the screen can be cleaned. The cinema contains 5 screens with different seating capacities. The largest screen can hold 250 people the smallest 100 people. Tickets are available in four formats - adults: £9.50, children: £5.50, senior citizens: £6.50 and students: £7.00.
 
