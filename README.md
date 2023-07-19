@@ -5,6 +5,8 @@
 
 https://github.com/UsmanAsad87/Movie_Booking_Program/assets/92229738/30ece99f-d5a4-461c-982d-a131e51ecfe4
 
+### Admin Password = 12345
+
 
 
 
